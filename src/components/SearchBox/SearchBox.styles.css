@@ -1,0 +1,15 @@
+.searchBox {
+  margin: 5rem;
+  width: 50rem;
+  padding: 1.5rem;
+  outline: none;
+  background: transparent;
+  border: 0.2rem solid #ffffff;
+  color: #ffffff;
+}
+
+.searchBox::placeholder {
+  color: #ffffff;
+  font-size: 1.4rem;
+  font-family: "gothic";
+}
